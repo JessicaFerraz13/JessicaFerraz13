@@ -12,7 +12,8 @@
 
 <div>
   <a href="https://www.instagram.com/jessicafer.raz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jessicaferrazrosario@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jessicaferrazrosario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessicaferraz13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://jessicaferraz13.github.io/Curriculo/" target="_blank"><img src="https://img.shields.io/badge/-Currículo-black?style=for-the-badge&Color=white" target="_blank"></a>
  
 </div>
